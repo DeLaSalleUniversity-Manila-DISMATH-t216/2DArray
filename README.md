@@ -2,7 +2,8 @@
 
 ![jcinsanity](Screenshot 001.PNG)
 
-~~~package ph.edu.dlsu;
+~~~
+package ph.edu.dlsu;
 
 public class Main {
 
